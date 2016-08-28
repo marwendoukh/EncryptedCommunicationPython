@@ -1,6 +1,6 @@
-# End To End Encryption with Python
+# Encrypted communication with Python
 
-This is an End To End Encryption example with Python made by Marwen Doukh
+This is a basic encrypted communication example with Python made by Marwen Doukh
 
 #How to use it ?
 
