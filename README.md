@@ -8,7 +8,9 @@ This is an End To End Encryption example with Python made by Marwen Doukh
 2. Run client.py in your machine
 3. The server will send you the current logged user (just an example, you can change it)
 
-Make sure that you put the "myowncertif" folder in the same directory as server.py : it contains the TLS certificates
+**You can run it in the same PC as well , just open two Terminals**
+
+**Make sure that you put the "myowncertif" folder in the same directory as server.py : it contains the TLS certificates**
 
 Communicate securely and protect your privacy , Enjoy !
 
